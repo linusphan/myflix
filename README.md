@@ -1,24 +1,17 @@
-# README
+## Overview
+This is a Netflix clone application built using Ruby on Rails. Feel free to try
+out the application by setting it up on your local machine.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Getting Started
 
-Things you may want to cover:
+### How to set up the application on development server
+- Run `bundle install --without production` from the root directory to install
+  ruby dependencies
+- Run `rails db:setup` to setup the database
+- Run `bin/rails server` or `rails s` to start a web server on your development
+  machine to see/start the Rails application
+- Navigate your browser to localhost:3000
 
-* Ruby version
+## Features
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* [currently under development]
