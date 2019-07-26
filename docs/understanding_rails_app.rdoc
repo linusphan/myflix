@@ -37,8 +37,8 @@ Rails.
 4. Follow the guidelines to start developing your application. You can find
 the following resources handy:
 
-* The Getting Started Guide: http://guides.rubyonrails.org/getting_started.html
-* Ruby on Rails Tutorial Book: http://www.railstutorial.org/
+* The Getting Started Guide: https://www.guides.rubyonrails.org/getting_started.html
+* Ruby on Rails Tutorial Book: https://www.railstutorial.org/
 
 
 == Debugging Rails
@@ -66,13 +66,13 @@ The result will be a message in your log file along the lines of:
 
   Mon Oct 08 14:22:29 +1000 2007 Destroyed Weblog ID #1!
 
-More information on how to use the logger is at http://www.ruby-doc.org/core/
+More information on how to use the logger is at https://ruby-doc.org/core/
 
-Also, Ruby documentation can be found at http://www.ruby-lang.org/. There are
+Also, Ruby documentation can be found at https://www.ruby-lang.org/. There are
 several books available online as well:
 
-* Programming Ruby: http://www.ruby-doc.org/docs/ProgrammingRuby/ (Pickaxe)
-* Learn to Program: http://pine.fm/LearnToProgram/ (a beginners guide)
+* Programming Ruby: https://www.ruby-doc.com/docs/ProgrammingRuby/ (Pickaxe)
+* Learn to Program: https://pine.fm/LearnToProgram/ (a beginners guide)
 
 These two books will bring you up to speed on the Ruby language and also on
 programming in general.
