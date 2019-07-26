@@ -15,3 +15,10 @@ out the application by setting it up on your local machine.
 ## Features
 
 * [currently under development]
+
+---
+
+## Helpful Notes
+
+See the [Understanding Rails document](./docs/understanding_rails_app.rdoc) for
+more information about Rails applications and the codebase structure.
