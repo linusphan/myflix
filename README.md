@@ -1,5 +1,5 @@
 ## Overview
-This is a Netflix clone application built using Ruby on Rails. Feel free to try
+This is a Netflix clone web application built using Ruby on Rails. Feel free to try
 out the application by setting it up on your local machine.
 
 ## Getting Started
