@@ -37,7 +37,7 @@ Rails.
 4. Follow the guidelines to start developing your application. You can find
 the following resources handy:
 
-* The Getting Started Guide: link:https://www.guides.rubyonrails.org/getting_started.html
+* The Getting Started Guide: link:https://guides.rubyonrails.org/getting_started.html
 * Ruby on Rails Tutorial Book: link:https://www.railstutorial.org/
 
 
