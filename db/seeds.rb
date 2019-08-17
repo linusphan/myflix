@@ -16,3 +16,9 @@ Video.create(
   small_cover_url: '/tmp/futurama.jpg',
   large_cover_url: '/tmp/futurama.jpg'
 )
+Video.create(
+  title: 'South Park',
+  description: 'This is South Park.',
+  small_cover_url: '/tmp/south_park.jpg',
+  large_cover_url: '/tmp/south_park.jpg'
+)
